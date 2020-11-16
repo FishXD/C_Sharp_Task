@@ -1,1 +1,7 @@
 hello
+
+// v3.0
+// 开发一些新的内容
+class hello{
+	psvm
+}
