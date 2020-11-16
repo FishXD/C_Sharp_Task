@@ -5,6 +5,8 @@ class User{
 		private String name;
 		private int age;
 		private int id;
+		// b1修改的内容
+		private String address;
 	}
 }
 
